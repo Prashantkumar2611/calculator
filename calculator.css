@@ -1,0 +1,40 @@
+#calculator{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 350px;
+    width: 350px;
+    background-color: rgb(43, 62, 102);
+}
+
+#display{
+    width: 300px;
+    margin: 20px;
+    height: 40px;
+    font: bold;
+}
+
+.buttons-div{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.buttons{
+    height: 50px;
+    width: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: blanchedalmond;
+}
+
+#eq-button{
+    padding-left: 150px;
+    padding-top: 10px;
+}
+
+
+
+#cal{
+    height: 40px;
+    width: 40px;
+}
